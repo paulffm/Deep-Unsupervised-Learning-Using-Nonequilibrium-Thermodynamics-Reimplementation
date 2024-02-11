@@ -5,9 +5,9 @@
 Unofficial **PyTorch** reimplementation of the
 paper [Deep Unsupervised Learning Using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf)
 by Sohl-Dickstein et al.
-1025 × 173
+
 <p align="center">
-  <img src="sohl.png"  alt="1" width = 256px height = 173px >
+  <img src="sohl.png"  alt="1" width = 512px height = 173px >
 </p>
 
 Figure taken from [paper](https://arxiv.org/pdf/1503.03585.pdf).
