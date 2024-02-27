@@ -1,4 +1,4 @@
-# Dirichlet Diffusion Score Model for Biological Sequence 
+# Deep Unsupervised Learning Using Nonequilibrium Thermodynamics 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/paulffm/Deep-Unsupervised-Learning-Using-Nonequilibrium-Thermodynamics-Reimplementation-of-/blob/main/LICENSE)
 
