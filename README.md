@@ -7,7 +7,7 @@ paper [Deep Unsupervised Learning Using Nonequilibrium Thermodynamics](https://a
 by Sohl-Dickstein et al.
 
 <p align="center">
-  <img src="sohl.png"  alt="1" width = 512px height = 86px >
+  <img src="sohl.png"  alt="1" width = 1024px height = 173px >
 </p>
 
 Figure taken from [paper](https://arxiv.org/pdf/1503.03585.pdf).
