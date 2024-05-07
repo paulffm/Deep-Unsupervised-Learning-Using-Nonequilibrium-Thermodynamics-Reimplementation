@@ -51,7 +51,7 @@ This repository is a really simple implementation of Deep Unsupervised Learning 
   booktitle = {Proceedings of the 32nd {{International Conference}} on {{Machine Learning}}},
   author = {{Sohl-Dickstein}, Jascha and Weiss, Eric and Maheswaranathan, Niru and Ganguli, Surya},
   year = {2015},
-  month = jun,
+  month = {jun},
   pages = {2256--2265},
   publisher = {{PMLR}},
   issn = {1938-7228},
