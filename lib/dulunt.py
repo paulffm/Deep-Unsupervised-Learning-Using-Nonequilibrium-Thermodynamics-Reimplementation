@@ -131,6 +131,4 @@ class InitialDiffusionModel:
         k = -kl_div.mean()  # Should be maximized
         loss = -k  # Should be minimized
 
-        # we fix beta_t thus the approximate posterior q has no learnable parameters
-
         return loss
