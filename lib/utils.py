@@ -70,23 +70,3 @@ def train_loop(diffusion_model: InitialDiffusionModel, optimizer: torch.optim, b
             #plot(diffusion_model, f'figs/training_epoch_{epoch}.png', device)
         
     return diffusion_model, training_loss
-
-
-
-"""
-def forward_process_old(data: np.ndarray, T: int, betas: np.ndarray):
-
-  
-    for t in range(T):
-        beta_t = betas[t]
-        mu = data * torch.sqrt(1- beta_t)
-        std = torch.sqrt(beta_t)
-
-        # resampling data: repermization trick: data ~ N(mu, std)
-        # sample from q(x_t | x_t-1)
-        data = mu + torch.randn_like(data) * std
-
-    # N(0, sigma_1^2) + N(0, sigma_2^2) = N(0, sigma_1^2 + sigma_2^2) 
-
-    return data
-"""
