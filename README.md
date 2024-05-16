@@ -42,7 +42,7 @@ samples = model.sample(n_samples)
 ```
 
 ## Note
-This repository is a really simple implementation of Deep Unsupervised Learning Using Nonequilibrium Thermodynamics. However, it provides the main functionality and can be easily extended by adding other networks and dataset.
+This repository is a really simple implementation of Deep Unsupervised Learning Using Nonequilibrium Thermodynamics. However, it provides the main functionality and can be easily extended by adding other networks and datasets.
 ## Reference
 
 ```bibtex
